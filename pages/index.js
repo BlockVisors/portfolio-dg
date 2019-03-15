@@ -49,7 +49,7 @@ class Index extends React.Component {
 
 
     updateTitle() {
-        this.setState({title: "i am updated indewx page"});
+        this.setState({title: "i am updated index page"});
     }
 
     render() {
